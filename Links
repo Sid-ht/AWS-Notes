@@ -1,5 +1,5 @@
 AWS Glue : https://bokhyunjoon.medium.com/aws-glue-101-all-you-need-to-know-with-a-real-world-example-f34af17b782f
-Loaing in Redshift using Glue : https://medium.com/towards-data-engineering/load-and-unload-data-to-redshift-in-glue-69a20859aead
+Loading in Redshift using Glue : https://medium.com/towards-data-engineering/load-and-unload-data-to-redshift-in-glue-69a20859aead
 
 
 Athena + Glue + S3 (Handson) :  https://youtu.be/8VOf1PUFE0I
